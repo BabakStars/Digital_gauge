@@ -1,6 +1,6 @@
 //************************************************
-const char* ssid     = "BABAK";
-const char* password = "1374138319952004bb";
+const char* ssid     = "YOUR SSID";
+const char* password = "YOUR PASSWORD";
 #include<ESP8266WiFi.h>
 #include<WiFiClient.h>
 #include<ESP8266WebServer.h>
